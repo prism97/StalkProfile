@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StalkProfile</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="munu">Thoughtful, spontaneous and different from the lot</string>
+    <string name="nis">Pretty lady with an artistic mind and a strong heart</string>
+    <string name="ade">Superwoman, sincere, diligent and of course beautiful</string>
+    <string name="mama">Genius, super talented, super cool and super nice</string>
+</resources>
